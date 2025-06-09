@@ -30,20 +30,4 @@
     android:src="@drawable/simple3"
     android:adjustViewBounds="true"
     />
-    <ImageView
-        android:id="@+id/imgv2"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="50dp"
-        android:src="@drawable/realistic"
-        android:adjustViewBounds="true"
-        />
-    <ImageView
-        android:id="@+id/imgv3"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="50dp"
-        android:src="@drawable/artnubo2"
-        android:adjustViewBounds="true"
-        />
 </LinearLayout>
